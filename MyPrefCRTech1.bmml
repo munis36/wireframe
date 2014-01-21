@@ -113,37 +113,31 @@
             <text>BRHMALPISTK</text>
           </controlProperties>
         </control>
-        <control controlID="11" controlTypeID="com.balsamiq.mockups::CheckBox" x="547" y="124" w="-1" h="-1" measuredW="90" measuredH="22" zOrder="11" locked="false" isInGroup="200">
-          <controlProperties>
-            <state>selected</state>
-            <text>Copy%20Labels</text>
-          </controlProperties>
-        </control>
-        <control controlID="12" controlTypeID="com.balsamiq.mockups::TextArea" x="428" y="166" w="87" h="29" measuredW="200" measuredH="140" zOrder="12" locked="false" isInGroup="200">
+        <control controlID="12" controlTypeID="com.balsamiq.mockups::TextArea" x="428" y="166" w="87" h="29" measuredW="200" measuredH="140" zOrder="11" locked="false" isInGroup="200">
           <controlProperties>
             <state>disabled</state>
             <text>FirstName</text>
           </controlProperties>
         </control>
-        <control controlID="13" controlTypeID="com.balsamiq.mockups::TextArea" x="532" y="166" w="87" h="29" measuredW="200" measuredH="140" zOrder="13" locked="false" isInGroup="200">
+        <control controlID="13" controlTypeID="com.balsamiq.mockups::TextArea" x="532" y="166" w="87" h="29" measuredW="200" measuredH="140" zOrder="12" locked="false" isInGroup="200">
           <controlProperties>
             <state>disabled</state>
             <text>ATTUID</text>
           </controlProperties>
         </control>
-        <control controlID="14" controlTypeID="com.balsamiq.mockups::TextArea" x="547" y="0" w="195" h="29" measuredW="200" measuredH="140" zOrder="14" locked="false" isInGroup="200">
+        <control controlID="14" controlTypeID="com.balsamiq.mockups::TextArea" x="547" y="0" w="195" h="29" measuredW="200" measuredH="140" zOrder="13" locked="false" isInGroup="200">
           <controlProperties>
             <state>up</state>
             <text/>
           </controlProperties>
         </control>
-        <control controlID="15" controlTypeID="com.balsamiq.mockups::TextArea" x="547" y="44" w="195" h="29" measuredW="200" measuredH="140" zOrder="15" locked="false" isInGroup="200">
+        <control controlID="15" controlTypeID="com.balsamiq.mockups::TextArea" x="547" y="44" w="195" h="29" measuredW="200" measuredH="140" zOrder="14" locked="false" isInGroup="200">
           <controlProperties>
             <state>up</state>
             <text/>
           </controlProperties>
         </control>
-        <control controlID="16" controlTypeID="com.balsamiq.mockups::TextArea" x="547" y="86" w="195" h="29" measuredW="200" measuredH="140" zOrder="16" locked="false" isInGroup="200">
+        <control controlID="16" controlTypeID="com.balsamiq.mockups::TextArea" x="547" y="86" w="195" h="29" measuredW="200" measuredH="140" zOrder="15" locked="false" isInGroup="200">
           <controlProperties>
             <state>disabled</state>
             <text/>
