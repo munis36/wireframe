@@ -15,10 +15,11 @@
           <align>center</align>
           <text>My%20Preferences</text>
         </override>
+        <override controlID="-1"/>
         <src>./assets/symbols.bmml%23CIM%20Header</src>
       </controlProperties>
     </control>
-    <control controlID="178" controlTypeID="com.balsamiq.mockups::Button" x="111" y="98" w="63" h="44" measuredW="55" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="178" controlTypeID="com.balsamiq.mockups::Button" x="145" y="98" w="76" h="44" measuredW="55" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Clear</text>
       </controlProperties>
@@ -31,10 +32,10 @@
         <color>0</color>
       </controlProperties>
     </control>
-    <control controlID="197" controlTypeID="com.balsamiq.mockups::Button" x="60" y="98" w="51" h="44" measuredW="52" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="197" controlTypeID="com.balsamiq.mockups::Button" x="60" y="98" w="85" h="44" measuredW="52" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
         <href>MyPrefCRSupervisor%26bm%3BMyPrefCRSupervisor.bmml%26bm%3BMyPrefCRSupervisor.bmml%26bm%3BMyPrefCRSupervisor.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2243%2C69%2C94%2C113%22%20href%3D%22MyPrefCRSupervisor.bmml%22%20alt%3D%22MyPrefCRSupervisor%22%20id%3D%22197%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2243%2C69%2C128%2C113%22%20href%3D%22MyPrefCRSupervisor.bmml%22%20alt%3D%22MyPrefCRSupervisor%22%20id%3D%22197%22/%3E</map>
         <text>Save</text>
       </controlProperties>
     </control>
@@ -247,7 +248,7 @@
                 <text>Location1</text>
               </controlProperties>
             </control>
-            <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="28" y="24" w="-1" h="-1" measuredW="59" measuredH="21" zOrder="3" locked="false" isInGroup="36">
+            <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="28" y="26" w="-1" h="-1" measuredW="59" measuredH="21" zOrder="3" locked="false" isInGroup="36">
               <controlProperties>
                 <text>Location2</text>
               </controlProperties>
@@ -255,6 +256,21 @@
             <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="28" y="48" w="-1" h="-1" measuredW="58" measuredH="21" zOrder="4" locked="false" isInGroup="36">
               <controlProperties>
                 <text>Location3</text>
+              </controlProperties>
+            </control>
+            <control controlID="6" controlTypeID="com.balsamiq.mockups::Button" x="269" y="3" w="-1" h="-1" measuredW="61" measuredH="27" zOrder="5" locked="false" isInGroup="36">
+              <controlProperties>
+                <text>Delete</text>
+              </controlProperties>
+            </control>
+            <control controlID="7" controlTypeID="com.balsamiq.mockups::Button" x="269" y="30" w="-1" h="-1" measuredW="61" measuredH="27" zOrder="6" locked="false" isInGroup="36">
+              <controlProperties>
+                <text>Delete</text>
+              </controlProperties>
+            </control>
+            <control controlID="8" controlTypeID="com.balsamiq.mockups::Button" x="269" y="57" w="-1" h="-1" measuredW="61" measuredH="27" zOrder="7" locked="false" isInGroup="36">
+              <controlProperties>
+                <text>Delete</text>
               </controlProperties>
             </control>
           </groupChildrenDescriptors>
