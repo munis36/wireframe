@@ -14,7 +14,6 @@
         <override controlID="2" x="411" y="4" w="-1" h="-1">
           <text>U-TRAK%20-%20Notification%20Center</text>
         </override>
-        <override controlID="-1"/>
         <src>./assets/symbols.bmml#CIM%20Header</src>
       </controlProperties>
     </control>
