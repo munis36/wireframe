@@ -15,7 +15,6 @@
           <align>center</align>
           <text>My%20Preferences</text>
         </override>
-        <override controlID="-1"/>
         <src>./assets/symbols.bmml#CIM%20Header</src>
       </controlProperties>
     </control>

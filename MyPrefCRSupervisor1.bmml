@@ -15,6 +15,7 @@
           <align>center</align>
           <text>My%20Preferences</text>
         </override>
+        <override controlID="-1"/>
         <src>./assets/symbols.bmml#CIM%20Header</src>
       </controlProperties>
     </control>
@@ -264,10 +265,10 @@
         <text/>
       </controlProperties>
     </control>
-    <control controlID="205" controlTypeID="com.balsamiq.mockups::Label" x="73" y="181" w="463" h="-1" measuredW="339" measuredH="24" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="205" controlTypeID="com.balsamiq.mockups::Label" x="73" y="181" w="463" h="-1" measuredW="284" measuredH="24" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
         <size>16</size>
-        <text>LastName%2C%20FirstName%20%20%20%20%20%20%20%20%20%20%20%20%20%20</text>
+        <text>LastName%2C%20FirstName%20%20%20%20%20%20%20%20%20%20%20%20%28ATTUID%29</text>
         <textOrientation>right</textOrientation>
       </controlProperties>
     </control>

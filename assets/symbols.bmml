@@ -738,12 +738,12 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="13" controlTypeID="__group__" x="101" y="380" w="970" h="88" measuredW="970" measuredH="88" zOrder="8" locked="false" isInGroup="-1">
+    <control controlID="13" controlTypeID="__group__" x="101" y="380" w="970" h="70" measuredW="970" measuredH="70" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
         <controlName>ReceiptListCell</controlName>
       </controlProperties>
       <groupChildrenDescriptors>
-        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="970" h="88" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="13">
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="970" h="70" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="13">
           <controlProperties/>
         </control>
         <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="33" y="7" w="-1" h="-1" measuredW="103" measuredH="21" zOrder="1" locked="false" isInGroup="13">
@@ -751,7 +751,7 @@
             <text>SN001138446-01</text>
           </controlProperties>
         </control>
-        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="275" y="7" w="-1" h="-1" measuredW="69" measuredH="21" zOrder="2" locked="false" isInGroup="13">
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="215" y="7" w="-1" h="-1" measuredW="69" measuredH="21" zOrder="2" locked="false" isInGroup="13">
           <controlProperties>
             <text>800763123</text>
           </controlProperties>
@@ -761,51 +761,46 @@
             <text>10532133</text>
           </controlProperties>
         </control>
-        <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="33" y="64" w="110" h="-1" measuredW="62" measuredH="21" zOrder="4" locked="false" isInGroup="13">
-          <controlProperties>
-            <text>OSO/TEO</text>
-          </controlProperties>
-        </control>
-        <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="637" y="7" w="-1" h="-1" measuredW="10" measuredH="21" zOrder="5" locked="false" isInGroup="13">
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="637" y="7" w="-1" h="-1" measuredW="10" measuredH="21" zOrder="4" locked="false" isInGroup="13">
           <controlProperties>
             <color>13576743</color>
             <text>%20</text>
           </controlProperties>
         </control>
-        <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="546" y="7" w="107" h="-1" measuredW="110" measuredH="21" zOrder="6" locked="false" isInGroup="13">
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="439" y="7" w="107" h="-1" measuredW="110" measuredH="21" zOrder="5" locked="false" isInGroup="13">
           <controlProperties>
             <bold>true</bold>
             <text>ATT.1PBYAA3AZZ</text>
           </controlProperties>
         </control>
-        <control controlID="7" controlTypeID="com.balsamiq.mockups::Label" x="546" y="34" w="199" h="-1" measuredW="142" measuredH="21" zOrder="7" locked="false" isInGroup="13">
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::Label" x="439" y="34" w="199" h="-1" measuredW="142" measuredH="21" zOrder="6" locked="false" isInGroup="13">
           <controlProperties>
             <text>100%20A%20RCVG%20CONT%20BAY</text>
           </controlProperties>
         </control>
-        <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="275" y="34" w="-1" h="-1" measuredW="29" measuredH="21" zOrder="8" locked="false" isInGroup="13">
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="215" y="34" w="-1" h="-1" measuredW="29" measuredH="21" zOrder="7" locked="false" isInGroup="13">
           <controlProperties>
             <text>0001</text>
           </controlProperties>
         </control>
-        <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="865" y="15" w="60" h="-1" measuredW="10" measuredH="21" zOrder="9" locked="false" isInGroup="13">
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="865" y="15" w="60" h="-1" measuredW="10" measuredH="21" zOrder="8" locked="false" isInGroup="13">
           <controlProperties>
             <align>right</align>
             <bold>true</bold>
             <text>5</text>
           </controlProperties>
         </control>
-        <control controlID="10" controlTypeID="com.balsamiq.mockups::Label" x="275" y="64" w="119" h="-1" measuredW="106" measuredH="21" zOrder="10" locked="false" isInGroup="13">
+        <control controlID="10" controlTypeID="com.balsamiq.mockups::Label" x="655" y="7" w="119" h="-1" measuredW="60" measuredH="21" zOrder="9" locked="false" isInGroup="13">
           <controlProperties>
-            <text>ATT.IPMJJ10GRA</text>
+            <text>10205509</text>
           </controlProperties>
         </control>
-        <control controlID="11" controlTypeID="com.balsamiq.mockups::Label" x="546" y="64" w="84" h="-1" measuredW="72" measuredH="21" zOrder="11" locked="false" isInGroup="13">
+        <control controlID="11" controlTypeID="com.balsamiq.mockups::Label" x="655" y="34" w="84" h="-1" measuredW="47" measuredH="21" zOrder="10" locked="false" isInGroup="13">
           <controlProperties>
-            <text>103434344</text>
+            <text>OSPCM</text>
           </controlProperties>
         </control>
-        <control controlID="14" controlTypeID="com.balsamiq.mockups::TextInput" x="865" y="41" w="60" h="-1" measuredW="19" measuredH="24" zOrder="12" locked="false" isInGroup="13">
+        <control controlID="14" controlTypeID="com.balsamiq.mockups::TextInput" x="865" y="32" w="60" h="-1" measuredW="19" measuredH="24" zOrder="11" locked="false" isInGroup="13">
           <controlProperties>
             <align>right</align>
             <text>2</text>
@@ -833,11 +828,11 @@
             <text>MyReceipts</text>
           </controlProperties>
         </control>
-        <control controlID="4" controlTypeID="com.balsamiq.mockups::Button" x="257" y="0" w="78" h="51" measuredW="74" measuredH="24" zOrder="2" locked="false" isInGroup="14">
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Button" x="257" y="0" w="78" h="51" measuredW="67" measuredH="24" zOrder="2" locked="false" isInGroup="14">
           <controlProperties>
             <href>CRcpt10_Receipt%26bm%3BCRcpt10_Receipt.bmml%26bm%3BCRcpt10_Receipt.bmml%26bm%3BCRcpt10_Receipt.bmml</href>
             <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221235%2C198%2C1313%2C249%22%20href%3D%22CRcpt10_Receipt.bmml%22%20alt%3D%22CRcpt10_Receipt%22%20id%3D%224%22/%3E</map>
-            <text>Receipts</text>
+            <text>Receipt</text>
           </controlProperties>
         </control>
         <control controlID="5" controlTypeID="com.balsamiq.mockups::Button" x="81" y="0" w="91" h="51" measuredW="54" measuredH="24" zOrder="3" locked="false" isInGroup="14">

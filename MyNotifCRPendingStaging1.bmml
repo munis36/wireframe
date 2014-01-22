@@ -16,7 +16,6 @@
         <override controlID="2" x="411" y="4" w="-1" h="-1">
           <text>U-TRAK%20-%20Notification%20Center</text>
         </override>
-        <override controlID="-1"/>
         <src>./assets/symbols.bmml#CIM%20Header</src>
       </controlProperties>
     </control>
@@ -49,7 +48,7 @@
           <controlProperties>
             <align>center</align>
             <color>16777215</color>
-            <text>Truck%20-%201</text>
+            <text>LastName%2C%20FirstName%20-%20%28Truck1%29</text>
           </controlProperties>
         </control>
       </groupChildrenDescriptors>
