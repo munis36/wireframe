@@ -89,7 +89,7 @@
             <text>SPRINGER</text>
           </controlProperties>
         </control>
-        <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="0" y="114" w="-1" h="-1" measuredW="296" measuredH="24" zOrder="8" locked="false" isInGroup="200">
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="0" y="114" w="-1" h="-1" measuredW="287" measuredH="24" zOrder="8" locked="false" isInGroup="200">
           <controlProperties>
             <bold>true</bold>
             <size>16</size>
@@ -160,10 +160,10 @@
         <text>OCSPOC</text>
       </controlProperties>
     </control>
-    <control controlID="207" controlTypeID="com.balsamiq.mockups::Label" x="441" y="232" w="196" h="-1" measuredW="92" measuredH="21" zOrder="10" locked="false" isInGroup="-1">
+    <control controlID="207" controlTypeID="com.balsamiq.mockups::Label" x="441" y="232" w="196" h="-1" measuredW="83" measuredH="21" zOrder="10" locked="false" isInGroup="-1">
       <controlProperties>
         <color>40463</color>
-        <text>Profile%20Settings</text>
+        <text>Default%20Profile</text>
       </controlProperties>
     </control>
     <control controlID="208" controlTypeID="com.balsamiq.mockups::Label" x="691" y="232" w="196" h="-1" measuredW="100" measuredH="21" zOrder="11" locked="false" isInGroup="-1">
