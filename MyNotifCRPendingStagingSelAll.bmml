@@ -133,6 +133,11 @@
             <text>35N0004N</text>
           </controlProperties>
         </control>
+        <control controlID="13" controlTypeID="com.balsamiq.mockups::Icon" x="8" y="9" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="5" locked="false" isInGroup="165">
+          <controlProperties>
+            <icon>CheckMarkIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
       </groupChildrenDescriptors>
     </control>
     <control controlID="166" controlTypeID="__group__" x="60" y="308" w="970" h="49" measuredW="970" measuredH="49" zOrder="9" locked="false" isInGroup="-1">
@@ -158,6 +163,11 @@
         <control controlID="13" controlTypeID="com.balsamiq.mockups::Label" x="33" y="7" w="-1" h="-1" measuredW="69" measuredH="21" zOrder="4" locked="false" isInGroup="166">
           <controlProperties>
             <text>WSTPINAX</text>
+          </controlProperties>
+        </control>
+        <control controlID="14" controlTypeID="com.balsamiq.mockups::Icon" x="8" y="9" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="5" locked="false" isInGroup="166">
+          <controlProperties>
+            <icon>CheckMarkIcon%7Cxsmall</icon>
           </controlProperties>
         </control>
       </groupChildrenDescriptors>
@@ -187,18 +197,25 @@
             <text>WSTPINAX</text>
           </controlProperties>
         </control>
+        <control controlID="14" controlTypeID="com.balsamiq.mockups::Icon" x="8" y="9" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="5" locked="false" isInGroup="167">
+          <controlProperties>
+            <icon>CheckMarkIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
       </groupChildrenDescriptors>
     </control>
     <control controlID="168" controlTypeID="com.balsamiq.mockups::Button" x="142" y="130" w="113" h="64" measuredW="107" measuredH="24" zOrder="11" locked="false" isInGroup="-1">
       <controlProperties>
+        <href>CMEquip10%26bm%3BCMEquip10.bmml%26bm%3BCMEquip10.bmml%26bm%3BCMEquip10.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22125%2C101%2C238%2C165%22%20href%3D%22CMEquip10.bmml%22%20alt%3D%22CMEquip10%22%20id%3D%22168%22/%3E</map>
         <text>Manage%20Equip.</text>
       </controlProperties>
     </control>
-    <control controlID="170" controlTypeID="com.balsamiq.mockups::Button" x="60" y="130" w="84" h="64" measuredW="78" measuredH="24" zOrder="12" locked="false" isInGroup="-1">
+    <control controlID="170" controlTypeID="com.balsamiq.mockups::Button" x="60" y="130" w="84" h="64" measuredW="92" measuredH="24" zOrder="12" locked="false" isInGroup="-1">
       <controlProperties>
-        <href>MyNotifCRPendingStagingSelAll%26bm%3BMyNotifCRPendingStagingSelAll.bmml%26bm%3BMyNotifCRPendingStagingSelAll.bmml%26bm%3BMyNotifCRPendingStagingSelAll.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2243%2C101%2C127%2C165%22%20href%3D%22MyNotifCRPendingStagingSelAll.bmml%22%20alt%3D%22MyNotifCRPendingStagingSelAll%22%20id%3D%22170%22/%3E</map>
-        <text>Select%20All</text>
+        <href>MyNotifCRPendingStaging1%26bm%3BMyNotifCRPendingStaging1.bmml%26bm%3BMyNotifCRPendingStaging1.bmml%26bm%3BMyNotifCRPendingStaging1.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2243%2C101%2C127%2C165%22%20href%3D%22MyNotifCRPendingStaging1.bmml%22%20alt%3D%22MyNotifCRPendingStaging1%22%20id%3D%22170%22/%3E</map>
+        <text>Unselect%20All</text>
       </controlProperties>
     </control>
   </controls>
