@@ -1,8 +1,8 @@
-<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="1117" measuredH="784" mockupW="1100" mockupH="755">
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="1031" measuredH="719" mockupW="973" mockupH="650">
   <controls>
-    <control controlID="1" controlTypeID="com.balsamiq.mockups::Component" x="60" y="69" w="970" h="29" measuredW="970" measuredH="29" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Component" x="60" y="69" w="970" h="29" measuredW="970" measuredH="29" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2245%2C41%2C93%2C68%22%20href%3D%22MyNotifCRPendingStagingSelAll.bmml%22%20alt%3D%22MyNotifCRPendingStagingSelAll%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2245%2C41%2C93%2C68%22%20href%3D%22MyNotifCRPendingStagingSelAll.bmml%22%20alt%3D%22MyNotifCRPendingStagingSelAll%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2245%2C41%2C93%2C68%22%20href%3D%22MyNotifCRPendingStagingSelAll.bmml%22%20alt%3D%22MyNotifCRPendingStagingSelAll%22%20id%3D%221%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%224%2C1%2C52%2C28%22%20href%3D%22MyNotifCRPendingStagingSelAll.bmml%22%20alt%3D%22MyNotifCRPendingStagingSelAll%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%224%2C1%2C52%2C28%22%20href%3D%22MyNotifCRPendingStagingSelAll.bmml%22%20alt%3D%22MyNotifCRPendingStagingSelAll%22%20id%3D%221%22/%3E</map>
         <override controlID="0" x="0" y="0" w="970" h="29"/>
         <override controlID="1" x="2" y="1" w="-1" h="-1">
           <href>MyNotifCRPendingStagingSelAll%26bm%3BMyNotifCRPendingStagingSelAll.bmml%26bm%3BMyNotifCRPendingStagingSelAll.bmml%26bm%3BMyNotifCRPendingStagingSelAll.bmml</href>
@@ -14,7 +14,7 @@
         <src>../../Balsamiq/CIM_11262013/assets/symbols.bmml#CIM%20Header</src>
       </controlProperties>
     </control>
-    <control controlID="5" controlTypeID="__group__" x="58" y="96" w="633" h="39" measuredW="633" measuredH="39" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="5" controlTypeID="__group__" x="58" y="96" w="633" h="39" measuredW="633" measuredH="39" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <controlName>CIM_Toolbar</controlName>
       </controlProperties>
@@ -57,7 +57,7 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="6" controlTypeID="__group__" x="60" y="135" w="971" h="584" measuredW="971" measuredH="584" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="6" controlTypeID="__group__" x="60" y="135" w="971" h="584" measuredW="971" measuredH="584" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <controlName>iPadListView</controlName>
       </controlProperties>
@@ -578,12 +578,6 @@
           </controlProperties>
         </control>
       </groupChildrenDescriptors>
-    </control>
-    <control controlID="8" controlTypeID="com.balsamiq.mockups::Component" x="17" y="29" w="1100" h="755" measuredW="1100" measuredH="755" zOrder="0" locked="false" isInGroup="-1">
-      <controlProperties>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221029%2C351%2C1073%2C400%22%20href%3D%22iPad.bmml%22%20alt%3D%22iPad%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%221029%2C351%2C1073%2C400%22%20href%3D%22iPad.bmml%22%20alt%3D%22iPad%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%221029%2C351%2C1073%2C400%22%20href%3D%22iPad.bmml%22%20alt%3D%22iPad%22%20id%3D%225%22/%3E</map>
-        <src>./assets/symbols.bmml#iPad</src>
-      </controlProperties>
     </control>
   </controls>
 </mockup>
