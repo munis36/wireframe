@@ -114,7 +114,7 @@
         <control controlID="20" controlTypeID="com.balsamiq.mockups::VRule" x="536" y="0" w="-1" h="251" measuredW="10" measuredH="100" zOrder="15" locked="false" isInGroup="200"/>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="201" controlTypeID="com.balsamiq.mockups::Canvas" x="115" y="223" w="833" h="284" measuredW="100" measuredH="70" zOrder="4" locked="false" isInGroup="-1"/>
+    <control controlID="201" controlTypeID="com.balsamiq.mockups::Canvas" x="115" y="223" w="833" h="283" measuredW="100" measuredH="70" zOrder="4" locked="false" isInGroup="-1"/>
     <control controlID="202" controlTypeID="com.balsamiq.mockups::Image" x="893" y="260" w="47" h="31" measuredW="128" measuredH="128" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
         <src>./barcode.png</src>
@@ -193,7 +193,7 @@
             <text>Back</text>
           </controlProperties>
         </control>
-        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="449" y="4" w="-1" h="-1" measuredW="94" measuredH="21" zOrder="2" locked="false" isInGroup="210">
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="438" y="4" w="-1" h="-1" measuredW="94" measuredH="21" zOrder="2" locked="false" isInGroup="210">
           <controlProperties>
             <align>center</align>
             <color>16777215</color>

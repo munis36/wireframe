@@ -1,68 +1,6 @@
 <mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="1117" measuredH="784" mockupW="1100" mockupH="755">
   <controls>
-    <control controlID="96" controlTypeID="com.balsamiq.mockups::Component" x="60" y="69" w="970" h="29" measuredW="970" measuredH="29" zOrder="1" locked="false" isInGroup="-1">
-      <controlProperties>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2245%2C41%2C93%2C68%22%20href%3D%22CMenu10.bmml%22%20alt%3D%22CMenu10%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2245%2C41%2C93%2C68%22%20href%3D%22CMenu10.bmml%22%20alt%3D%22CMenu10%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2245%2C41%2C93%2C68%22%20href%3D%22CMenu10.bmml%22%20alt%3D%22CMenu10%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2245%2C41%2C93%2C68%22%20href%3D%22CMenu10.bmml%22%20alt%3D%22CMenu10%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2245%2C41%2C93%2C68%22%20href%3D%22CMenu10.bmml%22%20alt%3D%22CMenu10%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2245%2C41%2C93%2C68%22%20href%3D%22CMenu10.bmml%22%20alt%3D%22CMenu10%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2245%2C41%2C93%2C68%22%20href%3D%22CMenu10.bmml%22%20alt%3D%22CMenu10%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2245%2C41%2C93%2C68%22%20href%3D%22CMenu10.bmml%22%20alt%3D%22CMenu10%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2245%2C41%2C93%2C68%22%20href%3D%22CMenu10.bmml%22%20alt%3D%22CMenu10%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2245%2C41%2C93%2C68%22%20href%3D%22CMenu10.bmml%22%20alt%3D%22CMenu10%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2245%2C41%2C93%2C68%22%20href%3D%22CMenu10.bmml%22%20alt%3D%22CMenu10%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2245%2C41%2C93%2C68%22%20href%3D%22CMenu10.bmml%22%20alt%3D%22CMenu10%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2245%2C41%2C93%2C68%22%20href%3D%22CMenu10.bmml%22%20alt%3D%22CMenu10%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2245%2C41%2C93%2C68%22%20href%3D%22CMenu10.bmml%22%20alt%3D%22CMenu10%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2245%2C41%2C93%2C68%22%20href%3D%22CMenu10.bmml%22%20alt%3D%22CMenu10%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2245%2C41%2C93%2C68%22%20href%3D%22CMenu10.bmml%22%20alt%3D%22CMenu10%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2245%2C41%2C93%2C68%22%20href%3D%22CMenu10.bmml%22%20alt%3D%22CMenu10%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2245%2C41%2C93%2C68%22%20href%3D%22CMenu10.bmml%22%20alt%3D%22CMenu10%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2245%2C41%2C93%2C68%22%20href%3D%22CMenu10.bmml%22%20alt%3D%22CMenu10%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2245%2C41%2C93%2C68%22%20href%3D%22CMenu10.bmml%22%20alt%3D%22CMenu10%22%20id%3D%221%22/%3E</map>
-        <override controlID="0" x="0" y="0" w="970" h="29"/>
-        <override controlID="1" x="2" y="1" w="-1" h="-1"/>
-        <override controlID="2" x="411" y="4" w="-1" h="-1">
-          <text>U-TRAK%20-%20Notification%20Center</text>
-        </override>
-        <src>./assets/symbols.bmml#CIM%20Header</src>
-      </controlProperties>
-    </control>
-    <control controlID="101" controlTypeID="__group__" x="60" y="98" w="969" h="32" measuredW="969" measuredH="32" zOrder="2" locked="false" isInGroup="-1">
-      <groupChildrenDescriptors>
-        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="969" h="32" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="101">
-          <controlProperties>
-            <borderColor>16777215</borderColor>
-            <color>6710886</color>
-          </controlProperties>
-        </control>
-        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="331" y="6" w="-1" h="-1" measuredW="307" measuredH="21" zOrder="1" locked="false" isInGroup="101">
-          <controlProperties>
-            <align>center</align>
-            <color>16777215</color>
-            <text>Pending%20Staging%20%28been%20receipted%2C%20in%20staging%20status%29</text>
-          </controlProperties>
-        </control>
-      </groupChildrenDescriptors>
-    </control>
-    <control controlID="102" controlTypeID="__group__" x="60" y="163" w="969" h="32" measuredW="969" measuredH="32" zOrder="3" locked="false" isInGroup="-1">
-      <groupChildrenDescriptors>
-        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="969" h="32" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="102">
-          <controlProperties>
-            <borderColor>16777215</borderColor>
-            <color>2848996</color>
-          </controlProperties>
-        </control>
-        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="6" y="6" w="-1" h="-1" measuredW="139" measuredH="21" zOrder="1" locked="false" isInGroup="102">
-          <controlProperties>
-            <align>center</align>
-            <color>16777215</color>
-            <text>10749718%20/%20WSTPINAX</text>
-          </controlProperties>
-        </control>
-      </groupChildrenDescriptors>
-    </control>
-    <control controlID="104" controlTypeID="__group__" x="60" y="342" w="969" h="32" measuredW="969" measuredH="32" zOrder="4" locked="false" isInGroup="-1">
-      <groupChildrenDescriptors>
-        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="969" h="32" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="104">
-          <controlProperties>
-            <borderColor>16777215</borderColor>
-            <color>2848996</color>
-          </controlProperties>
-        </control>
-        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="6" y="6" w="-1" h="-1" measuredW="49" measuredH="21" zOrder="1" locked="false" isInGroup="104">
-          <controlProperties>
-            <align>center</align>
-            <color>16777215</color>
-            <text>1154598</text>
-          </controlProperties>
-        </control>
-      </groupChildrenDescriptors>
-    </control>
-    <control controlID="128" controlTypeID="__group__" x="60" y="195" w="970" h="49" measuredW="970" measuredH="49" zOrder="6" locked="false" isInGroup="-1">
+    <control controlID="128" controlTypeID="__group__" x="60" y="163" w="970" h="49" measuredW="970" measuredH="49" zOrder="3" locked="false" isInGroup="-1">
       <groupChildrenDescriptors>
         <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="970" h="49" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="128">
           <controlProperties/>
@@ -91,7 +29,7 @@
           <controlProperties>
             <href>CMEquip11%26bm%3BCMEquip11.bmml%26bm%3BCMEquip11.bmml%26bm%3BCMEquip11.bmml</href>
             <icon>IndentIcon%7Csmall</icon>
-            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22903%2C175%2C948%2C199%22%20href%3D%22CMEquip11.bmml%22%20alt%3D%22CMEquip11%22%20id%3D%2214%22/%3E</map>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22903%2C143%2C948%2C167%22%20href%3D%22CMEquip11.bmml%22%20alt%3D%22CMEquip11%22%20id%3D%2214%22/%3E</map>
             <text/>
           </controlProperties>
         </control>
@@ -103,7 +41,7 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="129" controlTypeID="__group__" x="60" y="130" w="970" h="33" measuredW="970" measuredH="33" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="129" controlTypeID="__group__" x="60" y="98" w="970" h="33" measuredW="970" measuredH="33" zOrder="2" locked="false" isInGroup="-1">
       <groupChildrenDescriptors>
         <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="970" h="33" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="129">
           <controlProperties>
@@ -142,7 +80,7 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="137" controlTypeID="com.balsamiq.mockups::Button" x="60" y="714" w="480" h="24" measuredW="126" measuredH="24" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="137" controlTypeID="com.balsamiq.mockups::Button" x="60" y="714" w="480" h="24" measuredW="126" measuredH="24" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <href>MyNotifCRPendingReceipts%26bm%3BMyNotifCRPendingReceipts.bmml%26bm%3BMyNotifCRPendingReceipts.bmml%26bm%3BMyNotifCRPendingReceipts.bmml</href>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2243%2C685%2C523%2C709%22%20href%3D%22MyNotifCRPendingReceipts.bmml%22%20alt%3D%22MyNotifCRPendingReceipts%22%20id%3D%22137%22/%3E</map>
@@ -150,7 +88,7 @@
         <text>Pending%20Receipts</text>
       </controlProperties>
     </control>
-    <control controlID="138" controlTypeID="com.balsamiq.mockups::Button" x="540" y="714" w="490" h="24" measuredW="119" measuredH="24" zOrder="8" locked="false" isInGroup="-1">
+    <control controlID="138" controlTypeID="com.balsamiq.mockups::Button" x="540" y="714" w="490" h="24" measuredW="119" measuredH="24" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
         <href>MyNotifCRPendingStaging%26bm%3BMyNotifCRPendingStaging.bmml%26bm%3BMyNotifCRPendingStaging.bmml%26bm%3BMyNotifCRPendingStaging.bmml</href>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22523%2C685%2C1013%2C709%22%20href%3D%22MyNotifCRPendingStaging.bmml%22%20alt%3D%22MyNotifCRPendingStaging%22%20id%3D%22138%22/%3E</map>
@@ -158,23 +96,7 @@
         <text>Pending%20Staging</text>
       </controlProperties>
     </control>
-    <control controlID="146" controlTypeID="com.balsamiq.mockups::Icon" x="998" y="171" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="9" locked="false" isInGroup="-1">
-      <controlProperties>
-        <color>16777215</color>
-        <href>MyNotifCRPendingStaging1%26bm%3BMyNotifCRPendingStaging1.bmml%26bm%3BMyNotifCRPendingStaging1.bmml%26bm%3BMyNotifCRPendingStaging1.bmml</href>
-        <icon>GtIcon%7Cxsmall</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22981%2C142%2C997%2C158%22%20href%3D%22MyNotifCRPendingStaging1.bmml%22%20alt%3D%22MyNotifCRPendingStaging1%22%20id%3D%22146%22/%3E</map>
-      </controlProperties>
-    </control>
-    <control controlID="147" controlTypeID="com.balsamiq.mockups::Icon" x="998" y="350" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="10" locked="false" isInGroup="-1">
-      <controlProperties>
-        <color>16777215</color>
-        <href>MyNotifCRPendingStaging1%26bm%3BMyNotifCRPendingStaging1.bmml%26bm%3BMyNotifCRPendingStaging1.bmml%26bm%3BMyNotifCRPendingStaging1.bmml</href>
-        <icon>GtIcon%7Cxsmall</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22981%2C321%2C997%2C337%22%20href%3D%22MyNotifCRPendingStaging1.bmml%22%20alt%3D%22MyNotifCRPendingStaging1%22%20id%3D%22147%22/%3E</map>
-      </controlProperties>
-    </control>
-    <control controlID="155" controlTypeID="__group__" x="60" y="244" w="970" h="49" measuredW="970" measuredH="49" zOrder="11" locked="false" isInGroup="-1">
+    <control controlID="155" controlTypeID="__group__" x="60" y="212" w="970" h="49" measuredW="970" measuredH="49" zOrder="8" locked="false" isInGroup="-1">
       <groupChildrenDescriptors>
         <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="970" h="49" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="155">
           <controlProperties/>
@@ -213,7 +135,7 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="156" controlTypeID="__group__" x="60" y="293" w="970" h="49" measuredW="970" measuredH="49" zOrder="12" locked="false" isInGroup="-1">
+    <control controlID="156" controlTypeID="__group__" x="60" y="261" w="970" h="49" measuredW="970" measuredH="49" zOrder="9" locked="false" isInGroup="-1">
       <groupChildrenDescriptors>
         <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="970" h="49" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="156">
           <controlProperties/>
@@ -252,7 +174,7 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="157" controlTypeID="__group__" x="60" y="374" w="970" h="49" measuredW="970" measuredH="49" zOrder="13" locked="false" isInGroup="-1">
+    <control controlID="157" controlTypeID="__group__" x="60" y="342" w="970" h="49" measuredW="970" measuredH="49" zOrder="10" locked="false" isInGroup="-1">
       <groupChildrenDescriptors>
         <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="970" h="49" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="157">
           <controlProperties/>
@@ -291,7 +213,7 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="158" controlTypeID="__group__" x="60" y="420" w="970" h="49" measuredW="970" measuredH="49" zOrder="14" locked="false" isInGroup="-1">
+    <control controlID="158" controlTypeID="__group__" x="60" y="388" w="970" h="49" measuredW="970" measuredH="49" zOrder="11" locked="false" isInGroup="-1">
       <groupChildrenDescriptors>
         <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="970" h="49" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="158">
           <controlProperties/>
@@ -330,7 +252,7 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="159" controlTypeID="__group__" x="60" y="469" w="970" h="49" measuredW="970" measuredH="49" zOrder="15" locked="false" isInGroup="-1">
+    <control controlID="159" controlTypeID="__group__" x="60" y="437" w="970" h="49" measuredW="970" measuredH="49" zOrder="12" locked="false" isInGroup="-1">
       <groupChildrenDescriptors>
         <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="970" h="49" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="159">
           <controlProperties/>
@@ -369,7 +291,7 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="160" controlTypeID="__group__" x="60" y="518" w="970" h="49" measuredW="970" measuredH="49" zOrder="16" locked="false" isInGroup="-1">
+    <control controlID="160" controlTypeID="__group__" x="60" y="486" w="970" h="49" measuredW="970" measuredH="49" zOrder="13" locked="false" isInGroup="-1">
       <groupChildrenDescriptors>
         <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="970" h="49" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="160">
           <controlProperties/>
@@ -408,7 +330,7 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="161" controlTypeID="__group__" x="60" y="567" w="970" h="49" measuredW="970" measuredH="49" zOrder="17" locked="false" isInGroup="-1">
+    <control controlID="161" controlTypeID="__group__" x="60" y="535" w="970" h="49" measuredW="970" measuredH="49" zOrder="14" locked="false" isInGroup="-1">
       <groupChildrenDescriptors>
         <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="970" h="49" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="161">
           <controlProperties/>
@@ -469,6 +391,90 @@
             </control>
             <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="9" y="14" w="27" h="23" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="5"/>
           </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="163" controlTypeID="__group__" x="60" y="131" w="969" h="32" measuredW="969" measuredH="32" zOrder="6" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="__group__" x="0" y="0" w="969" h="32" measuredW="969" measuredH="32" zOrder="0" locked="false" isInGroup="163">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="969" h="32" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="0">
+              <controlProperties>
+                <borderColor>16777215</borderColor>
+                <color>2848996</color>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="6" y="6" w="-1" h="-1" measuredW="139" measuredH="21" zOrder="1" locked="false" isInGroup="0">
+              <controlProperties>
+                <align>center</align>
+                <color>16777215</color>
+                <text>10749718%20/%20WSTPINAX</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" x="938" y="8" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="1" locked="false" isInGroup="163">
+          <controlProperties>
+            <color>16777215</color>
+            <href>MyNotifCRPendingStaging1%26bm%3BMyNotifCRPendingStaging1.bmml%26bm%3BMyNotifCRPendingStaging1.bmml%26bm%3BMyNotifCRPendingStaging1.bmml</href>
+            <icon>GtIcon%7Cxsmall</icon>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22981%2C110%2C997%2C126%22%20href%3D%22MyNotifCRPendingStaging1.bmml%22%20alt%3D%22MyNotifCRPendingStaging1%22%20id%3D%221%22/%3E</map>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="164" controlTypeID="__group__" x="60" y="310" w="969" h="32" measuredW="969" measuredH="32" zOrder="7" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="__group__" x="0" y="0" w="969" h="32" measuredW="969" measuredH="32" zOrder="0" locked="false" isInGroup="164">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="969" h="32" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="0">
+              <controlProperties>
+                <borderColor>16777215</borderColor>
+                <color>2848996</color>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="6" y="6" w="-1" h="-1" measuredW="49" measuredH="21" zOrder="1" locked="false" isInGroup="0">
+              <controlProperties>
+                <align>center</align>
+                <color>16777215</color>
+                <text>1154598</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" x="938" y="8" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="1" locked="false" isInGroup="164">
+          <controlProperties>
+            <color>16777215</color>
+            <href>MyNotifCRPendingStaging1%26bm%3BMyNotifCRPendingStaging1.bmml%26bm%3BMyNotifCRPendingStaging1.bmml%26bm%3BMyNotifCRPendingStaging1.bmml</href>
+            <icon>GtIcon%7Cxsmall</icon>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22981%2C289%2C997%2C305%22%20href%3D%22MyNotifCRPendingStaging1.bmml%22%20alt%3D%22MyNotifCRPendingStaging1%22%20id%3D%221%22/%3E</map>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="165" controlTypeID="__group__" x="60" y="69" w="970" h="29" measuredW="970" measuredH="29" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>CIM%20Header</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="970" h="29" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="165">
+          <controlProperties>
+            <color>16750848</color>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::PointyButton" x="2" y="1" w="-1" h="-1" measuredW="48" measuredH="27" zOrder="1" locked="false" isInGroup="165">
+          <controlProperties>
+            <direction>left</direction>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2280%2C40%2C128%2C67%22%20href%3D%22CMenu10.bmml%22%20alt%3D%22CMenu10%22%20id%3D%221%22/%3E</map>
+            <menuIcon>false</menuIcon>
+            <text>Back</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="239" y="4" w="-1" h="-1" measuredW="492" measuredH="21" zOrder="2" locked="false" isInGroup="165">
+          <controlProperties>
+            <color>16777215</color>
+            <text>U-TRAK%20-%20Notification%20Center%20-%20Pending%20Staging%20%28been%20receipted%2C%20in%20staging%20status%29</text>
+          </controlProperties>
         </control>
       </groupChildrenDescriptors>
     </control>

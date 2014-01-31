@@ -62,7 +62,7 @@
             <text>Back</text>
           </controlProperties>
         </control>
-        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="449" y="4" w="-1" h="-1" measuredW="141" measuredH="21" zOrder="2" locked="false" isInGroup="7">
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="415" y="4" w="-1" h="-1" measuredW="141" measuredH="21" zOrder="2" locked="false" isInGroup="7">
           <controlProperties>
             <color>16777215</color>
             <text>Work%20from%20My%20Inventory</text>
@@ -229,7 +229,7 @@
           <controlProperties>
             <bold>true</bold>
             <size>11</size>
-            <text>RTE%203PIM%201MB%20MEM%20AC</text>
+            <text>ADSL2+EBLT-Q/LT/48%20RTU</text>
           </controlProperties>
         </control>
         <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="846" y="10" w="55" h="-1" measuredW="10" measuredH="26" zOrder="5" locked="false" isInGroup="32">
