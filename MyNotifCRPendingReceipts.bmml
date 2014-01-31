@@ -124,10 +124,10 @@
             <text>Qty.Receipted</text>
           </controlProperties>
         </control>
-        <control controlID="10" controlTypeID="com.balsamiq.mockups::Label" x="500" y="6" w="159" h="-1" measuredW="165" measuredH="21" zOrder="5" locked="false" isInGroup="129">
+        <control controlID="10" controlTypeID="com.balsamiq.mockups::Label" x="500" y="6" w="144" h="-1" measuredW="134" measuredH="21" zOrder="5" locked="false" isInGroup="129">
           <controlProperties>
             <color>16777215</color>
-            <text>Shipped%20Date/Ordered%20Date</text>
+            <text>Shipped/Ordered%20Date</text>
           </controlProperties>
         </control>
         <control controlID="11" controlTypeID="com.balsamiq.mockups::Label" x="659" y="6" w="63" h="-1" measuredW="64" measuredH="21" zOrder="6" locked="false" isInGroup="129">
