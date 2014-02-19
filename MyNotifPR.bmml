@@ -433,7 +433,7 @@
           <controlProperties>
             <color>16777215</color>
             <href>MyNotifCRPendingReceipts1%26bm%3BMyNotifCRPendingReceipts1.bmml%26bm%3BMyNotifCRPendingReceipts1.bmml%26bm%3BMyNotifCRPendingReceipts1.bmml</href>
-            <icon>GtIcon%7Cxsmall</icon>
+            <icon>GridIcon%7Cxsmall</icon>
             <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22981%2C481%2C997%2C497%22%20href%3D%22MyNotifCRPendingReceipts1.bmml%22%20alt%3D%22MyNotifCRPendingReceipts1%22%20id%3D%221%22/%3E</map>
           </controlProperties>
         </control>
@@ -512,7 +512,7 @@
           <controlProperties>
             <color>16777215</color>
             <href>MyNotifCRPendingReceipts1%26bm%3BMyNotifCRPendingReceipts1.bmml%26bm%3BMyNotifCRPendingReceipts1.bmml%26bm%3BMyNotifCRPendingReceipts1.bmml</href>
-            <icon>GtIcon%7Cxsmall</icon>
+            <icon>GridIcon%7Cxsmall</icon>
             <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22981%2C352%2C997%2C368%22%20href%3D%22MyNotifCRPendingReceipts1.bmml%22%20alt%3D%22MyNotifCRPendingReceipts1%22%20id%3D%221%22/%3E</map>
           </controlProperties>
         </control>
@@ -541,7 +541,7 @@
           <controlProperties>
             <color>16777215</color>
             <href>MyNotifCRPendingReceipts1%26bm%3BMyNotifCRPendingReceipts1.bmml%26bm%3BMyNotifCRPendingReceipts1.bmml%26bm%3BMyNotifCRPendingReceipts1.bmml</href>
-            <icon>GtIcon%7Cxsmall</icon>
+            <icon>GridIcon%7Cxsmall</icon>
             <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22981%2C174%2C997%2C190%22%20href%3D%22MyNotifCRPendingReceipts1.bmml%22%20alt%3D%22MyNotifCRPendingReceipts1%22%20id%3D%221%22/%3E</map>
           </controlProperties>
         </control>
@@ -555,6 +555,21 @@
     <control controlID="164" controlTypeID="com.balsamiq.mockups::Button" x="145" y="98" w="87" h="64" measuredW="58" measuredH="24" zOrder="17" locked="false" isInGroup="-1">
       <controlProperties>
         <text>E-Mail</text>
+      </controlProperties>
+    </control>
+    <control controlID="165" controlTypeID="com.balsamiq.mockups::TextInput" x="382" y="119" w="420" h="-1" measuredW="79" measuredH="23" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="166" controlTypeID="com.balsamiq.mockups::Icon" x="384" y="122" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>SearchIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="167" controlTypeID="com.balsamiq.mockups::Button" x="808" y="118" w="-1" h="-1" measuredW="62" measuredH="24" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Search</text>
       </controlProperties>
     </control>
   </controls>
